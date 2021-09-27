@@ -8,11 +8,10 @@
      <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
      <div class="menu">
       <ul>
-       
-        <li><a href="index.html">home</a></li>
 		<li><a href="https://www.youtube.com/c/Alura">Youtube Alura</a> </li>
 		<li><a href="https://www.facebook.com/AluraCursosOnline">facebook Alura</a></li>
-		<li><a href="https://www.instagram.com/aluraonline/">Instragam Alura</a> </li>  </ul>
+		<li><a href="https://www.instagram.com/aluraonline/">Instragam Alura</a> </li> 
+   </ul>
      </div>
    </header>
   <body> 
