@@ -1,4 +1,4 @@
-/* Revisão de Código Segunda-feira,27/09/2021 das 08:45:00 até as  h +|-*/
+/* Revisão de Código Segunda-feira,27/09/2021 das 08:45:00 até as 10:25:00 h +|-  h +|-*/
 // André
 var nome = "André Luis";
 var notaDoPrimeiroBimeste = 9.435;
